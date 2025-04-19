@@ -1,0 +1,23 @@
+ git status
+  247  git add testing.py
+  248  git status
+  249  git rm --cached testing.py
+  250  git status
+  251  git add testing.py
+  252  git status
+  253  clear
+  254  git status
+  255  git commit -m "adding testing files"
+  256  git status
+  257  rm testing.py
+  258  ls
+  259  ls -la
+  260  cd .git
+  261  ls
+  262  cd ../
+  263  ls
+  264  clear
+  265  ls
+  266  git status
+  267  git restore testing.py
+  268  git status
